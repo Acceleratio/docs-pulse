@@ -5,7 +5,6 @@ author: Maja Blazek
 date: 30/6/2017
 ---
 
-
 Here is what you need to do to start using our application:
 
 * Unpack and run the SPDocKitSetupPulse.msi. The wizard will guide you through the installation steps.
