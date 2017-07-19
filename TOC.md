@@ -7,9 +7,9 @@ private: true
 These are some of the most common questions and answers about SysKit Pulse. 
 
 # [Installation](installation.md)
-Learn how to install SysKit Pulse.
+Learn how to install SysKit Pulse. In just a couple of clicks you are ready to go!
 
-# [Supported Sharepoint editions](supported-sharepoint-editions.md)
+# [Supported Sharepoint Editions](supported-sharepoint-editions.md)
 Check out which are the supported SharePoint versions by SysKit Pulse.
 
 # [System Requirements](system-requirements.md)
