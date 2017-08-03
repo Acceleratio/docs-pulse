@@ -3,7 +3,7 @@ title: Table of Contents
 private: true
 ---
 
-# [Product Updates](product-updates.md)
+# Product Updates
 See the changes in the latest SysKit Pulse version and upgrade.
 
 # [FAQ](faq.md)
