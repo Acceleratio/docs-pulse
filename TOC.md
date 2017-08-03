@@ -3,6 +3,9 @@ title: Table of Contents
 private: true
 ---
 
+# [Product Updates](product-updates.md)
+See the changes in the latest SysKit Pulse version and upgrade.
+
 # [FAQ](faq.md)
 These are some of the most common questions and answers about SysKit Pulse. 
 
