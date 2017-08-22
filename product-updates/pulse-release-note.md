@@ -5,16 +5,15 @@ author: Hrvoje Bagaric
 date: 7/6/2017
 ---
 
-We have just shipped the __SysKit Pulse__. This is the newest addition to our line of products aimed at monitoring servers. SysKit Pulse is completly free to use tool and it will stay that way!
+We’ve shipped __SysKit Pulse__! This is the newest addition to our line of products aimed at monitoring servers. SysKit Pulse is a free tool and we intend to keep it free.
 
-Our company name has been changed from __Acceleratio__ to __SysKit__! We have also decided to rebuild __SPDocKit Pulse__. The SysKit Pulse builds upon foundation of SPDocKit Pulse and adds significant performance and user interface improvments. There is no upgrade from SPDocKit Pulse to SysKit Pulse.
-You can read the back story to these changes in the [Rebranding Announcement](https://www.syskit.com/blog/rebranding-announcement-syskit) blog post.
+Additional great news is that in these few months, we’ve rebranded our company and Acceleratio officially became SysKit! In recent turn of events, we decided to rebrand our products as well, including SPDocKit Pulse which became SysKit Pulse. Here’s our [official rebranding announcement](https://www.syskit.com/blog/rebranding-announcement-syskit).
 
-SysKit Pulse builds upon foundation of __SPDocKit Pulse__ and delivers capability to discover __SharePoint__ servers and farms. Additionaly SysKit Pulse is able to discover __SQL__ servers and even __SQL AlwaysOn__ configurations. If AutoDiscover job misses some servers, SysKit Pulse allows __manual addition__ of servers.
+SysKit Pulse was developed on the SPDocKit Pulse foundation to add significant performance and user interface improvements. Unfortunately, you cannot upgrade from SPDocKit Pulse to SysKit Pulse.
 
-If there is need to crawl multiple domains, or just specific Organizational Units, SysKit Pulse allows users to configure AutoDiscover job according to their needs. 
+The tool is developed to discover SharePoint servers, SQL servers and SQL AlwaysOn configurations. In case the AutoDiscover job is unable to autodetect all your servers, you can manually add servers as well. For crawling multiple domains or just specific organizational units, use the tool to configure the AutoDiscover job feature according to user’s needs.
 
-Once servers are discovered SysKit Pulse will monitor basic server metrics, __CPU__ load, __memory__, __disk__ and __network__ usage. 
+Once servers are discovered, SysKit Pulse will monitor basic server metrics such as __CPU__ load, __memory__, __disk__ and __network__ usage. 
 
 __Product version:__ 1.0.0  
 __Build number:__   528    
@@ -25,9 +24,9 @@ __Release date:__ Aug 25, 2017
 
 ## Features 
 
-* __Auto Discovery__ - SysKit Pulse is able to discover all SharePoint servers and farms as well as SQL servers and SQL AlwaysOn configurations. SysKit Pulse will periodically crawl configured domains to discover new servers.
+* __Auto Discovery__ - discover all SharePoint servers and farms, as well as SQL servers and SQL AlwaysOn configurations. SysKit Pulse will periodically crawl configured domains to discover new servers.
 
-* __Domain Management__ - SysKit Pulse allow users to specify where to look for servers. Users can add multiple domains or/and specify Organizational Units for each domain. 
+* __Domain Management__ - This feature allows users to specify where to look for servers. Users can add multiple domains or/and specify Organizational Units for each domain.
 
 * __Manual server addition__ - If the auto discover job does not find some servers, users can manually add servers. Additionaly to adding servers, users can create server groups (SharePoint, SQL, Custom) to monitor.
 
