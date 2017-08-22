@@ -2,7 +2,7 @@
 title: SysKit Pulse - Release Note
 description: This article describes all new features, improvements and bug fixes delivered in SysKit Pulse.
 author: Hrvoje Bagaric
-date: 7/6/2017
+date: 25/8/2017
 ---
 
 We’ve shipped __SysKit Pulse__! This is the newest addition to our line of products aimed at monitoring servers. SysKit Pulse is a free tool and we intend to keep it free.
