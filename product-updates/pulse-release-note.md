@@ -10,7 +10,7 @@ We have just shipped the __SysKit Pulse__. This is the newest addition to our li
 Our company name has been changed from __Acceleratio__ to __SysKit__! We have also decided to rebuild __SPDocKit Pulse__. The SysKit Pulse builds upon foundation of SPDocKit Pulse and adds significant performance and user interface improvments. There is no upgrade from SPDocKit Pulse to SysKit Pulse.
 You can read the back story to these changes in the [Rebranding Announcement](https://www.syskit.com/blog/rebranding-announcement-syskit) blog post.
 
-SysKit Pulse builds upon foundation of our free tool __SPDocKit Pulse__ and delivers capability to discover __SharePoint__ servers and farms. Additionaly SysKit Pulse is able to discover __SQL__ servers and even __SQL AlwaysOn__ configurations. If AutoDiscover job misses some servers, SysKit Pulse allows __manual addition__ of servers.
+SysKit Pulse builds upon foundation of __SPDocKit Pulse__ and delivers capability to discover __SharePoint__ servers and farms. Additionaly SysKit Pulse is able to discover __SQL__ servers and even __SQL AlwaysOn__ configurations. If AutoDiscover job misses some servers, SysKit Pulse allows __manual addition__ of servers.
 
 If there is need to crawl multiple domains, or just specific Organizational Units, SysKit Pulse allows users to configure AutoDiscover job according to their needs. 
 
