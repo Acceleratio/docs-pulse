@@ -31,7 +31,7 @@ __Release date:__ Aug 25, 2017
 * __Add servers manually__ - If the auto discover job is not able to discover all servers in your domain, users can manually add servers. Additionally, users can create server groups (SharePoint, SQL, Custom) as well and monitor them.
 
 * __Server Monitoring__ - Monitor common server metrics for each discovered and added server. With the help of interactive tiles, detect Critical, Warning, Healthy and Offline state for each server. The state is calculated based on the collected values during the last 15 minutes. You can monitor the following metrics:
-  * CPU usage – Shows CPU utilization for the last 15 minutes. This value is in shown in percentage. If the value is above 90%, the server will be flagged warning and if it is above 95%, the server will me flagged critical.
+  * CPU usage – Shows CPU utilization for the last 15 minutes. This value is in shown in percentage. If the value is above 85%, the server will be flagged as warning and if it is above 95%, the server will be flagged critical.
   * Memory usage – Shows how much RAM your server is using. If the server has less than 512MB free memory, it will be flagged as warning. If it has less than 256MB free memory, it will be flagged as critical.
   * Disk usage – Monitors Total I/O for disks on each server and free space on each partition. If the partition has less than 3GB of free space the server will be flagged as warning and if there is less than 1GB of free space, the server will be flagged as critical. This check is performed only for partitions larger than 5GB.
   * Network usage – Monitors the total network usage across all network adapters on server.
