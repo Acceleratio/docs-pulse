@@ -2,12 +2,12 @@
 title: SysKit Pulse - Release Note
 description: This article describes all new features, improvements and bug fixes delivered in SysKit Pulse.
 author: Hrvoje Bagaric
-date: 25/8/2017
+date: 06/09/2017
 ---
 
 We’ve shipped __SysKit Pulse__! This is the newest addition to our line of products aimed at monitoring servers. SysKit Pulse is a free tool and we intend to keep it free.
 
-Additional great news is that in these few months, we’ve rebranded our company and Acceleratio officially became SysKit! In recent turn of events, we decided to rebrand our products as well, including SPDocKit Pulse which became SysKit Pulse. Here’s our [official rebranding announcement](https://www.syskit.com/blog/rebranding-announcement-syskit).
+ In recent turn of events, we decided to rebrand our products,including SPDocKit Pulse which became SysKit Pulse. Here’s our [official rebranding announcement](https://www.syskit.com/blog/rebranding-announcement-syskit).
 
 SysKit Pulse was developed on the SPDocKit Pulse foundation to add significant performance and user interface improvements. Unfortunately, you cannot upgrade from SPDocKit Pulse to SysKit Pulse.
 
@@ -17,7 +17,7 @@ Once servers are discovered, SysKit Pulse will monitor basic server metrics such
 
 __Product version:__ 1.0.0  
 __Build number:__   528    
-__Release date:__ Aug 25, 2017  
+__Release date:__ Sep 6, 2017  
 
 
 [Click here to download the new release.](https://www.syskit.com/products/pulse#download/)
