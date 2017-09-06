@@ -5,9 +5,7 @@ author: Hrvoje Bagaric
 date: 06/09/2017
 ---
 
-We’ve shipped __SysKit Pulse__! This is the newest addition to our line of products aimed at monitoring servers. SysKit Pulse is a free tool and we intend to keep it free.
-
- In recent turn of events, we decided to rebrand our products,including SPDocKit Pulse which became SysKit Pulse. Here’s our [official rebranding announcement](https://www.syskit.com/blog/rebranding-announcement-syskit).
+We’ve shipped __SysKit Pulse__! This is the newest addition to our line of products aimed at monitoring servers. SysKit Pulse is a free tool and we intend to keep it free. In recent turn of events, we decided to rebrand our products, including SPDocKit Pulse which became SysKit Pulse. Here’s our [official rebranding announcement](https://www.syskit.com/blog/rebranding-announcement-syskit).
 
 SysKit Pulse was developed on the SPDocKit Pulse foundation to add significant performance and user interface improvements. Unfortunately, you cannot upgrade from SPDocKit Pulse to SysKit Pulse.
 
