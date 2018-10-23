@@ -1,13 +1,13 @@
 ---
 title: System Requirements
 date: 30/6/2017
-description: This article lists the minimum hardware and software requirements for SysKit Pulse.
+description: This article lists the minimum hardware and software requirements for SysKit Insights Lite.
 author: Maja Blazek
 ---
 
-This article lists the minimum hardware and software requirements for the installation of the SysKit Pulse.
+This article lists the minimum hardware and software requirements for the installation of the SysKit Insights Lite.
 
-__Notice:__ SysKit Pulse user must be a local admin on all monitored servers and has to have ‘SQL CONNECT’ permission granted on SQL instances.
+__Notice:__ SysKit Insights Lite user must be a local admin on all monitored servers and has to have ‘SQL CONNECT’ permission granted on SQL instances.
 
 ### Software
 * Microsoft Windows 7, Windows 8, Windows 8.1, Windows 10 or later are supported (64-bit only)

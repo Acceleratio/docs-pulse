@@ -1,11 +1,11 @@
 ---
 title: Supported SharePoint Editions
-description: This article states the supported SharePoint versions by SysKit Pulse.
+description: This article states the supported SharePoint versions by SysKit Insights Lite.
 author: Maja Blazek
 date: 306/2017
 ---
 
-The following SharePoint editions and additional products are supported by SysKit Pulse:
+The following SharePoint editions and additional products are supported by SysKit Insights Lite:
 
 * SharePoint Server 2016
 * SharePoint 2013
