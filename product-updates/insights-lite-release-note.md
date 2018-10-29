@@ -12,7 +12,7 @@ This is a release that brings only a handful of bug fixes and __support for Shar
 SysKit Insights Lite continues to, and forever will be __FREE.__ 
 
 __Product version:__ 2.0.0  
-__Build number:__   543   
+__Build number:__   544   
 __Release date:__ Oct 30, 2018
 
 [Click here to download the new release.](https://www.syskit.com/products/insights-lite/download/)
