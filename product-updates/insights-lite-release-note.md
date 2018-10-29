@@ -7,7 +7,7 @@ date: 23/10/2018
 
 New SharePoint 2019 is here, and so ih our SysKit Insights Lite.  
 
-This is a release that brings only a handful of bug fixes and __support for SharePoint 2019.__ Also, to correspond more with its "big brother" - SysKit Insights, SysKit Pulse __has been renamed to SysKit Insights Lite__.  
+This is a release that brings only a handful of bug fixes and __support for SharePoint 2019.__ Also, to correspond more with its "big brother" - [SysKit Insights](https://www.syskit.com/products/insights/), SysKit Pulse __has been renamed to SysKit Insights Lite__.  
 
 SysKit Insights Lite continues to, and forever will be __FREE.__ 
 
@@ -19,6 +19,6 @@ __Release date:__ Oct 30, 2018
 
 ## Improvements
 
-- Support for SP 2019
-- Bug fixes
+- Support for SP 2019.
+- Bug fixes.
 
