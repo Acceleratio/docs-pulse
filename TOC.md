@@ -3,7 +3,7 @@ title: Table of Contents
 private: true
 ---
 
-# Getting Started
+# System
 
 ## [Installation](installation)
 Learn how to install SysKit Pulse. In just a couple of clicks you are ready to go!
