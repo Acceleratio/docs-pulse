@@ -1,9 +1,8 @@
 ---
-title: Supported SharePoint Editions
 description: This article states the supported SharePoint versions by SysKit Insights Lite.
-author: Maja Blazek
-date: 306/2017
 ---
+
+# Supported SharePoint Editions
 
 The following SharePoint editions and additional products are supported by SysKit Insights Lite:
 
@@ -16,3 +15,4 @@ The following SharePoint editions and additional products are supported by SysKi
   * Microsoft SharePoint Foundation 2010
   * SharePoint Standard 2010
   * SharePoint Enterprise 2010
+
