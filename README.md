@@ -2,7 +2,7 @@
 private: true
 ---
 
-# README
+# SysKit Pulse
 
 SysKit Pulse is a free tool developed by SysKit to help you detect SharePoint farms and SQL Servers in your environment and keep an eye on performance counters.
 
