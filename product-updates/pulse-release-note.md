@@ -21,7 +21,7 @@ Once servers are discovered, SysKit Pulse will monitor basic server metrics such
 **Build number:** 528  
 **Release date:** Sep 6, 2017
 
-[Click here to download the new release.](https://www.syskit.com/products/pulse#download/)
+[Click here to download the new release.](https://www.syskit.com/products/insights-lite/)
 
 ## Features
 
