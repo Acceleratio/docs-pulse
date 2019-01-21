@@ -2,7 +2,9 @@
 
 This article lists the minimum hardware and software requirements for the installation of the SysKit Pulse.
 
-**Notice:** SysKit Pulse user must be a local admin on all monitored servers and has to have ‘SQL CONNECT’ permission granted on SQL instances.
+{% hint style="warning" %}
+SysKit Pulse user must be a local admin on all monitored servers and has to have ‘SQL CONNECT’ permission granted on SQL instances.
+{% endhint %}
 
 ## Software
 
