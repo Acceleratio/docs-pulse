@@ -1,9 +1,3 @@
----
-description: >-
-  This article answers some of the most frequently asked questions about SysKit
-  Insights Lite.
----
-
 # FAQ
 
 ## How does the SysKit Insights Lite work?

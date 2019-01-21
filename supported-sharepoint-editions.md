@@ -1,7 +1,3 @@
----
-description: This article states the supported SharePoint versions by SysKit Insights Lite.
----
-
 # Supported SharePoint Editions
 
 The following SharePoint editions and additional products are supported by SysKit Insights Lite:

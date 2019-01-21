@@ -1,9 +1,3 @@
----
-description: >-
-  This article lists the minimum hardware and software requirements for SysKit
-  Insights Lite.
----
-
 # System Requirements
 
 {% hint style="warning" %}
