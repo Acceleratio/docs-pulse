@@ -1,6 +1,7 @@
 # System Requirements
 
 {% hint style="warning" %}
+**Please note!**  
 SysKit Insights Lite user must be a local admin on all monitored servers and has to have ‘SQL CONNECT’ permission granted on SQL instances.
 {% endhint %}
 
